@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with *Data analyst*
 
-- 💬 Ask me about *PHP, Data Structure*
+- 💬 Ask me about *PHP, Data Structure and python*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
